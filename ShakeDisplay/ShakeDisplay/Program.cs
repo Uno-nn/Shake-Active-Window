@@ -47,7 +47,7 @@ class Program
                 maxVolume = volume;
         }
 
-        if (maxVolume > 0.1f)
+        if (maxVolume > 0.7f)
         {
             ShakeWindow(maxVolume);
         }
